@@ -15,7 +15,7 @@ HTML/CSS/JavaScript
 Windows
 Chrome
 
- Tools:
+**tools**
 
 GitHub
 VS Code
@@ -52,18 +52,16 @@ I used Python
 [https://colab.research.google.com/drive/13ixDfxPTAJaNIU1WbhCB_9H420gP8K6q?usp=sharing
 ](url)
 
-[Name]
-[short description]
+Pseudocode
+A pseudocode for Minesweeper validator 
+I used pseudocode
 
-[what skills you used]
+[[https://docs.google.com/document/d/1BTZd6yjb3wOCX0kyQtWJSZqnulygZJFGPmyxQ5ZwD9s/edit?usp=sharing]
+](url)
 
-[link to GitHub repository or Google Colab doc]
+HTML & CSS practice
+A google doc where I practiced HTML & CSS
+I used HTML & CSS
 
-[Name]
-[short description]
-
-[what skills you used]
-
-[link to GitHub repository or Google Colab doc]
-
-
+[[https://docs.google.com/document/d/1aWrrc-c_MjYfACn94kEbdQWBFLV-GkdeHU-rTwSWfcg/edit?usp=sharing]
+](url)
